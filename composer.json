@@ -1,0 +1,6 @@
+{
+    "require": {
+        "twig/twig": "1.16.*@dev",
+        "symfony/routing": "2.6.*@dev"
+    }
+}
